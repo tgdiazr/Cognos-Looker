@@ -1,6 +1,6 @@
-Final Assignment: Creating Sales and Service Dashboards with IBM Cognos Analytics & Looker
+Creating Sales and Service Dashboards with IBM Cognos Analytics & Looker
 📝 Overview
-This repository contains the solution for the second part of a peer-graded assignment focused on building and exporting dashboards using IBM Cognos Analytics and Looker. The assignment aims to create two dashboards for a regional manager of a car dealership, providing insights into the sales and service department performance using both tools.
+This project focuses on developing data-driven dashboards to provide a regional manager of a car dealership with actionable insights into sales and service department performance. Leveraging IBM Cognos Analytics and Looker Studio, the goal is to create intuitive visualizations that enable better decision-making and operational efficiency.
 
 🔧 Software Used:
 IBM Cognos Analytics (Trial Version)
